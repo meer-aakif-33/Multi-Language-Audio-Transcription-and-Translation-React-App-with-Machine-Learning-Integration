@@ -1,0 +1,2 @@
+# Multi-Language-Audio-Transcription-and-Translation-React-App-with-Machine-Learning-Integration
+Developed a React app featuring real-time audio recording, transcription, and translation using machine learning. Implemented algorithms for accurate transcription and multi-language support. Included file upload functionality for translation, with options to copy or download translated text, ensuring a seamless user experience.
